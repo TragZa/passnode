@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 56" width="30" height="17">
+	<title>Arrow-Icon-svg</title>
+	<defs>
+		<image width="100" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAA4BAMAAAD5gEDrAAAAAXNSR0IB2cksfwAAACpQTFRFAAAA////////////////////////////////////////////////////hrvKLwAAAA50Uk5TAAaUZJv/+QSJaIJ1JaUqbpNjAAAAo0lEQVR4nGNgIAyEDIhQhAIYXZNJ1SISGkaiNeyqoaEkWlMRGkqiNeytQC2kWQPREjaBVIeFhkaSbk3oqDUj2JqlpFvDRbo1DGRbE02GNRuArDPEgrNwa0JJBBtI1xJNuhagNSRriaaLFtIdRob3N5AVlWQkGBomS9ITP+lZjIyMTHpxQUahNGrJ8LGEpAYJGc0eMhpX5DThyGgoktMcRW/0AgBiXTNctCpuEgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>

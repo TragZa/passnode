@@ -1,0 +1,30 @@
+{
+  "name": "passnode",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "static": "next build && next export"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^8.0.1",
+    "@types/crypto-js": "^4.1.1",
+    "@types/js-cookie": "^3.0.3",
+    "@types/node": "20.1.2",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "autoprefixer": "10.4.14",
+    "crypto-js": "^4.1.1",
+    "js-cookie": "^3.0.5",
+    "next": "13.4.1",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.0.4",
+    "web3.storage": "^4.5.4"
+  }
+}
